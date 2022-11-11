@@ -4,7 +4,7 @@
 | - | - |
 | 5 | Ukraine |
 | 6 | Network |
-| 11 | Colour Friday |
+| 11 | Red |
 | 14 | Hexagons |
 | 15 | Food |
 | 18 | Blue |
