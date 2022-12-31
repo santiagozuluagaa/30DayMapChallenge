@@ -1,6 +1,6 @@
 # 30DayMapChallenge
 
-I joined to the [30DayMapChallenge 2022](https://30daymapchallenge.com/), here are some of the maps created by me.
+I joined to the [30DayMapChallenge 2022](https://30daymapchallenge.com/), **here are some of the maps created by me.**
 
 ## Day 5: Ukraine
 
