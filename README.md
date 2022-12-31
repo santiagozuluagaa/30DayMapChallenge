@@ -23,7 +23,6 @@ Population percentage that does NOT meet basic needs - By administrative divisio
 ## Day 18: Color Blue
 
 Province of Birth & first Club of Argentinian National Team - Qatar 2022 (The Champions!:trophy:)
-**Tools**: R + GIMP + PowerPoint
 ![](gallery/18-Blue.png)
-
+**Tools**: R + GIMP + PowerPoint
 
