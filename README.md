@@ -9,7 +9,7 @@ Countries in Europa with more than 90000 refugees from Ukraine to 2022-Nov-05.
 
 ## Day 6: Network
 
-Submarine Cables Landing in Colombia (Cables Submarinos [de Internet] que llegan a Colombia).
+Animation showing Submarine Cables Landing in Colombia (Cables Submarinos [de Internet] que llegan a Colombia).
 ![](gallery/06-Network.gif)
 
 ## Day 11: Color Red
